@@ -9,7 +9,6 @@ items:
  - BuoyantIO/slow_cooker
  - codesenberg/bombardier
  - fcsonline/drill
- - flood-io/element
  - fortio/fortio
  - gatling/gatling
  - goadapp/goad
@@ -17,7 +16,7 @@ items:
  - hatoo/oha
  - lighttpd/weighttp
  - grafana/k6
- - loads/molotov
+ - tarekziade/molotov
  - locustio/locust
  - mcollina/autocannon
  - mhausenblas/kboom

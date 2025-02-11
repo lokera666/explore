@@ -25,6 +25,13 @@ items:
  - neomjs/neo
  - preactjs/preact
  - ionic-team/stencil
+ - withastro/astro
+ - QwikDev/qwik
+ - vercel/next.js
+ - gatsbyjs/gatsby
+ - sveltejs/kit
+ - refinedev/refine
+
 display_name: Front-end JavaScript frameworks
 created_by: jonrohan
 ---
